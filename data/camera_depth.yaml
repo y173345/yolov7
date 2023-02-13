@@ -1,0 +1,8 @@
+train: ./dataset/camera_depth/train
+val: ./dataset/camera_depth/valid 
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'head_nor', 'bath']
